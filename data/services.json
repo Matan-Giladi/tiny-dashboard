@@ -1,0 +1,7 @@
+[
+  { "name": "Billing & Invoices",     "owner": "Finance",  "status": "healthy" },
+  { "name": "User Auth Service",      "owner": "Platform", "status": "healthy" },
+  { "name": "Email / Notifications",  "owner": "Growth",   "status": "degraded" },
+  { "name": "Search API",             "owner": "Platform", "status": "healthy" },
+  { "name": "Reporting Dashboard",    "owner": "Data",     "status": "maintenance" }
+]
