@@ -12,6 +12,6 @@
     "htmx.org": "github:bigskysoftware/htmx#v2.0.10",
     "pino": "github:pinojs/pino#v10.3.1",
     "pino-http": "github:pinojs/pino-http#v11.0.0",
-    "better-sqlite3": "github:apiiro/better-sqlite3#v1.2.2"
+    "sqlite-infra": "github:apiiro/sqlite-infra#v1.2.2"
   }
 }
