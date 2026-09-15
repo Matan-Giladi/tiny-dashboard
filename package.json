@@ -1,0 +1,17 @@
+{
+  "name": "tiny-dashboard",
+  "version": "1.2.0",
+  "private": true,
+  "description": "A tiny internal local dashboard: service catalog in SQLite with a JSON API and an htmx table.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "htmx.org": "github:bigskysoftware/htmx#v2.0.10",
+    "pino": "github:pinojs/pino#v10.3.1",
+    "pino-http": "github:pinojs/pino-http#v11.0.0",
+    "better-sqlite3": "github:apiiro/better-sqlite3#v1.2.2"
+  }
+}
